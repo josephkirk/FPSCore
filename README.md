@@ -1,4 +1,4 @@
-# Please be aware that due to my current life situation, FPS Core is no longer in active development and I am unable to provide any support
+Forked from https://github.com/whoisEllie/FPSCore to continue dev
 
 **FPS Core is a simple, easy-to-use plugin that makes building shooters in Unreal Engine faster and easier**
 
@@ -28,23 +28,4 @@ It abstracts a number of core functions and behaviours (hence, FPS Core) to pre-
 - Integrated **interaction** system, including ammunition pickups
 - Support for **Enhanced Input** & **Niagara**
 
-### installation
-You'll likely have the best experience installing FPS Core through the [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/product/fps-core). This way you get the most up-to-date production ready binaries, so there's no compilation required.
 
-If you'd like to compile your own copy, you can clone from the main branch without hesitation - this is always kept up to date with the latest stable release, and mirrors the version found on the Unreal Engine Marketplace. In order to download bleeding-edge releases, you'll have to pull from a branch.
-
-### alternate versions
-If you're looking for versions of FPS Core with support for alternate features, you might find them in some public forks. Notable forks are listed here.
-- (https://github.com/TheMarcusDev/FPSCore): This fork by Marcus Henrique is fully replicated, and has modifications that bring it closer to a CS-style game, such as sprint being the default movement state.
-    
-### learning and docs
-The best way to get started with FPS Core is by following the QuickStart! series on the [documentation site](https://whoisellie.github.io/OpenFPS-Quartz/). You can find the first part of that [here](https://whoisellie.github.io/OpenFPS-Quartz/FPS-Core/Quickstart/Quickstart-part-1). Currently, there is no complete API reference.
-
-### getting help
-Unfortunately, as FPS Core is no longer in development, I am unable to provide support.
-
-### contributing
-Contributions are welcomed! Whether you're working on bug fixes, adding new features or commenting, I'm always happy to discuss outside changes to the plugin - make a PR and let's chat!
-
-### license
-FPS Core is licensed under an MIT license, a permissive license that places few restrictions on reuse. Wherever you're planning to use FPS Core, you're probably fine! You can read more in the [LICENSE](LICENSE).
